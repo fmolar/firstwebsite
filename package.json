@@ -1,0 +1,16 @@
+{
+  "name": "firstwebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://fmolar.github.io/firstwebsite",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
